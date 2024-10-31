@@ -24,7 +24,7 @@ Me considero una persona proactiva, con facilidad para adaptarme a nuevas tecnol
 
 ### 📊 Experiencia en Proyectos
 
-Mi experiencia incluye el procesamiento y análisis de datos, así como el desarrollo de aplicaciones para optimizar procesos en el Gabinete Psicopedagógico de la Universidad de Granada. En este contexto, creé informes detallados y contribuí al desarrollo de aplicaciones personalizadas para mejorar los flujos de trabajo y la toma de decisiones basadas en datos.
+Mi experiencia incluye el procesamiento y análisis de datos, así como el desarrollo de aplicaciones para optimizar procesos en el Gabinete Psicopedagógico de la Universidad de Granada. En este contexto, creé informes detallados y contribuí al desarrollo de aplicaciones personalizadas.
 
 ---
 
@@ -36,7 +36,7 @@ Actualmente, sigo aprendiendo y explorando nuevas tecnologías para ampliar mi c
 
 ### 📫 ¿Hablamos?
 
-- 📧 Correo: amadorcm@correo.ugr.es
+- 📧 Correo: amadorcm@correo.ugr.es / amadorcm@iclud.com
 - 📍 Granada, España
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [GitHub](https://github.com/Amadorcm)
 
