@@ -1,41 +1,45 @@
-<h1 align="center">🌐 Amador Carmona Méndez 🌐</h1>
-<h3 align="center">Estudiante de Ingeniería Informática en la Universidad de Granada</h3>
+# 👋 ¡Hola! Soy Amador Carmona Méndez
 
-- 📫 Cómo contactarme: **amadorcm@correo.ugr.es**
+### 👨‍💻 Ingeniero Informático | Entusiasta del Análisis de Datos y la Gestión de Sistemas
 
----
-
-# 💻 Tecnologías y Herramientas:
-### Lenguajes de Programación <br>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23CC342D.svg?style=for-the-badge&logo=sql&logoColor=white)
-
-### IDEs y Editores de Texto <br>
-![Visual Studio Code](https://img.shields.io/badge/VSCode-%2300599C.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=xcode&logoColor=white)
-
-### Bases de Datos <br>
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-%23323330.svg?style=for-the-badge&logo=sql-developer&logoColor=white)
-
-### DevOps y Monitorización <br>
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-%23EE0000.svg?style=for-the-badge&logo=zabbix&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Redes y Seguridad <br>
-![Wireshark](https://img.shields.io/badge/Wireshark-%230C55A5.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-%231A1918.svg?style=for-the-badge&logo=cisco&logoColor=white) ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-%234E9A06.svg?style=for-the-badge&logo=fail2ban&logoColor=white)
-
-### Visualización de Datos <br>
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Gephi](https://img.shields.io/badge/Gephi-%23323330.svg?style=for-the-badge&logo=gephi&logoColor=white)
+¡Bienvenido a mi perfil de GitHub! Soy estudiante de Ingeniería Informática, y estoy a punto de finalizar mi grado en la Universidad de Granada. Con una sólida formación en desarrollo de software, análisis de datos y despliegue y monitorización de sistemas, estoy listo para enfrentar nuevos desafíos en el mundo de la tecnología.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amadorcm&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amadorcm&theme=radical&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amadorcm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amadorcm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🎯 Sobre Mí
+Me considero una persona proactiva, con facilidad para adaptarme a nuevas tecnologías y entornos de trabajo. Creo firmemente en el poder de la colaboración, ya que el trabajo en equipo potencia el desarrollo de ideas y el aprendizaje mutuo. Mi objetivo profesional es seguir desarrollando mis habilidades en entornos innovadores y contribuir de forma significativa en proyectos de alto impacto.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Amadorcm&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔧 Habilidades Técnicas
 
-<!-- Creado con GPRM ( https://gprm.itsvg.in ) -->
+- **Lenguajes de Programación**: C/C++, Java, Kotlin, Python, PHP, HTML5/CSS, JavaScript, SQL, Ruby, Perl
+- **Bases de Datos**: SQL Developer, Oracle Database, MongoDB, Diseño de Bases de Datos
+- **DevOps y Monitorización**: Git, Docker, Ansible, Zabbix
+- **Visualización de Datos**: Power BI, Gephi
+- **Redes y Seguridad**: Wireshark, Cisco Packet Tracer, nmap, nmcli, fail2ban
+- **IDE y Herramientas**: Android Studio, Visual Studio Code, Xcode
+
+---
+
+### 📊 Experiencia en Proyectos
+
+Mi experiencia incluye el procesamiento y análisis de datos, así como el desarrollo de aplicaciones para optimizar procesos en el Gabinete Psicopedagógico de la Universidad de Granada. En este contexto, creé informes detallados y contribuí al desarrollo de aplicaciones personalizadas para mejorar los flujos de trabajo y la toma de decisiones basadas en datos.
+
+---
+
+### 🌱 En Aprendizaje Constante
+
+Actualmente, sigo aprendiendo y explorando nuevas tecnologías para ampliar mi conjunto de habilidades y mantenerme al día con las últimas tendencias en el sector tecnológico. ¡Siempre estoy abierto a colaborar en proyectos interesantes!
+
+---
+
+### 📫 ¿Hablamos?
+
+- 📧 Correo: amadorcm@correo.ugr.es
+- 📍 Granada, España
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [GitHub](https://github.com/Amadorcm)
+
+---
+
+¡Gracias por visitar mi perfil! 🚀 No dudes en echar un vistazo a mis proyectos y contactarme si deseas colaborar o tienes alguna pregunta.
