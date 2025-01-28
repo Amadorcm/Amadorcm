@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Amador Carmona Méndez
 
-### 👨‍💻 Ingeniero Informático | Entusiasta del Análisis de Datos y la Gestión de Sistemas
+### 👨‍💻 Ingeniero Informático | Entusiasta de la Educación, del Análisis de Datos y la Gestión de Sistemas
 
-¡Bienvenido a mi perfil de GitHub! Soy estudiante de Ingeniería Informática, y estoy a punto de finalizar mi grado en la Universidad de Granada. Con una sólida formación en desarrollo de software, análisis de datos y despliegue y monitorización de sistemas, estoy listo para enfrentar nuevos desafíos en el mundo de la tecnología.
+¡Bienvenido a mi perfil de GitHub! Soy graduado en Ingeniería Informática en la Universidad de Granada. Con una sólida formación en desarrollo de software, análisis de datos y despliegue y monitorización de sistemas, estoy listo para enfrentar nuevos desafíos en el mundo de la tecnología. Actualmente trabajando como docente.
 
 ---
 
